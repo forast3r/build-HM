@@ -13,7 +13,7 @@ jobs:
           flutter-version: '3.16.9'
           
       - name: Clone project
-        run: git clone https://github.com/anandnet/Harmony-Music.git
+        run: git clone https://github.com/forast3r/Harmony-Music.git
 
       - name: Flutter doctor
         run: flutter doctor
@@ -64,7 +64,7 @@ jobs:
           java-version: '11'
           
       - name: Clone project
-        run: git clone https://github.com/anandnet/Harmony-Music.git
+        run: git clone https://github.com/forast3r/Harmony-Music.git
 
       - name: Flutter doctor
         run: flutter doctor
@@ -116,7 +116,7 @@ jobs:
           flutter-version: '3.16.9'
 
       - name: Clone project
-        run: git clone https://github.com/anandnet/Harmony-Music.git
+        run: git clone https://github.com/forast3r/Harmony-Music.git
 
       - name: Flutter doctor
         run: flutter doctor
